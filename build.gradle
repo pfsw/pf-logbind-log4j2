@@ -10,7 +10,7 @@ archivesBaseName = "pf-logbind-log4j2"
 
 ext {
   javaVersion = '1.6'
-  pfLoggingVersion = '3.5.0'
+  pfLoggingVersion = '3.1.0'
   log4jVersion = '2.3'
   
   javaModuleNameSuffix = 'logbind.log4j2'
